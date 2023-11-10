@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #05f350;
+   
+}
+h1{
+ color: #05f350;
+}
+header img{
+    border-radius: 6px;
+    height: 40px;
+}
+header {
+    flex-direction: row;
+    background-color: #000000;
+    color: #000;
+    text-align: center;
+    padding: 20px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+}
+
+nav li {
+    display: inline;
+    margin: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #101010;
+    font-weight: bold;
+}
+
+section {
+    padding: 20px;
+}
+.loud{
+    text-align: center;
+}
+
